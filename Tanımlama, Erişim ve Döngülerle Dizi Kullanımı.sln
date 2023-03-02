@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tanımlama, Erişim ve Döngülerle Dizi Kullanımı", "Tanımlama, Erişim ve Döngülerle Dizi Kullanımı\Tanımlama, Erişim ve Döngülerle Dizi Kullanımı.csproj", "{631AFC73-652B-45FC-8011-548967E2DCBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{631AFC73-652B-45FC-8011-548967E2DCBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{631AFC73-652B-45FC-8011-548967E2DCBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{631AFC73-652B-45FC-8011-548967E2DCBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{631AFC73-652B-45FC-8011-548967E2DCBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20B477F8-C822-48EE-BD11-48ED1CB20331}
+	EndGlobalSection
+EndGlobal
